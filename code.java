@@ -1,5 +1,5 @@
 class Student{
     public static void main(String[] args){
-        System.out.println("hello world part 1");
+        System.out.println("hello world part 1 - expect the unexpected");
     }
 }
